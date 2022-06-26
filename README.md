@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on iOS Swift at INDMoney
+- 🌱 I’m currently learning SwiftUI
+- 💬 Ask me about Swift/iOS 
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/surya-kant-22896481), [Mail](suryakantsharma84@gmail.com)
+
+
+![Suryakant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURYAKANTSHARMA&count_private=true&show_icons=true&theme=radical)
 <!--
 **SURYAKANTSHARMA/SURYAKANTSHARMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
