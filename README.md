@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on iOS Swift at INDMoney
+- 🔭 I’m currently working on iOS Swift 
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about Swift/iOS 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/surya-kant-22896481), [Mail](suryakantsharma84@gmail.com)
